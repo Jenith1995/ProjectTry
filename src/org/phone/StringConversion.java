@@ -9,9 +9,14 @@ public class StringConversion {
 		int p;int q;int r;
 	String[] split = s.split("");
 		for (String res : split) {
-			s=res;			
+			s=res;
+			
 		}
-		
+		String[] splitng = s.split("");
+		for (String res : split) {
+			s=res;
+			
+		}
 		
 	}
 
