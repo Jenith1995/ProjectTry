@@ -11,6 +11,11 @@ public class StringConversion {
 		for (String res : split) {
 			s=res;			
 		}
+		int ree=0;
+		String sim = "6+5-3";
+		int sim1;
+		
+		
 		
 		
 	}
