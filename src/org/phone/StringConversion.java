@@ -9,7 +9,13 @@ public class StringConversion {
 		int p;int q;int r;
 	String[] split = s.split("");
 		for (String res : split) {
-			s=res;			
+			s=res;
+			
+		}
+		String[] splitng = s.split("");
+		for (String res : split) {
+			s=res;
+			
 		}
 		int ree=0;
 		String sim = "6+5-3";
@@ -17,6 +23,7 @@ public class StringConversion {
 		
 		
 		
+
 		
 	}
 
